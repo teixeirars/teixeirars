@@ -1,7 +1,6 @@
 
 ## Olá! Eu sou o Luiz 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizteixeira502@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/021_lz7/)
 
@@ -17,4 +16,4 @@
    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Apaixonado na área de programação
+Apaixonado me programação,Impressionado como a área de programação consegue mudar a vida das pessoas.
