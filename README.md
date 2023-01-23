@@ -16,4 +16,4 @@
    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Apaixonado me programação,Impressionado como a área de programação consegue mudar a vida das pessoas.
+Apaixonado na área de programação
