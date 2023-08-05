@@ -21,6 +21,3 @@
 Sempre querendo aprender mais sobre área de programação
 
 
-Projetos
-
-
