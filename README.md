@@ -6,7 +6,7 @@
 
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,4 +23,4 @@ Sempre querendo aprender mais sobre área de programação
 
 Projetos
 
-<img align="center" alt="projeto" src="https://cerulean-seahorse-5364e6.netlify.app"/>
+
