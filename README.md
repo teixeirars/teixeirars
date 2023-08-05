@@ -15,7 +15,7 @@
    
 </div><br/>
 <div>
-    <img align="center" src="<img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>"/>
+    <img src="<img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>
     </div>
 
 Sempre querendo aprender mais sobre área de programação
