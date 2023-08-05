@@ -15,7 +15,7 @@
    
 </div><br/>
 <div>
-    <img src="https://media.tenor.com/C-R6PNaiWTgAAAAC/super-mario-mario.gif"/>
+    <img align="center" src="https://media.tenor.com/C-R6PNaiWTgAAAAC/super-mario-mario.gif"/>
     </div>
 
 Sempre querendo aprender mais sobre área de programação
