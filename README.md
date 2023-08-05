@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Luiz 👋
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lzstc7/ target="_blanck)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lzstc7/ )
 
 
 
